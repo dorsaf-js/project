@@ -1,0 +1,23 @@
+.star{
+  font-size: 30px;
+  cursor: pointer;
+}
+.gold{
+  font-size: 30px;
+  color: gold;
+  cursor: pointer;
+}
+
+.header{
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.header input{
+  width: 60%;
+  height: 35px;
+  padding-left: 10px;
+  border-radius: 5px;
+}
